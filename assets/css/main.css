@@ -68,7 +68,7 @@ section {
   /* background-color: #F7E6C4; */
   /* background-color: #FFD6A0; */
   /* background-color: #F5FF6D; */
-  background-image: url("D:/riwaayat/assets/img/bg.png");
+  background-image: url("../img/bg.png");
   /* height: 620px; */
   position: relative;
   background-position: center;
@@ -1666,14 +1666,42 @@ section {
 
 
 
+.contact-us-bg {
+  background-image: url("../img/bg5.png");
+  /* height: 620px; */
+  position: relative;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.our-gallery-bg {
+  background-image: url("../img/bg4.png");
+  /* height: 620px; */
+  position: relative;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 
 
+.testimonial-bg {
+  /* background-color: #F7E6C4; */
+  /* background-color: #FFD6A0; */
+  /* background-color: #F5FF6D; */
+  background-image: url("../img/bg3.png");
+  /* height: 620px; */
+  position: relative;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 
 
 .random-class {
 	/* background-color: #F7E6C4; */
   /* background-color: #FFD6A0; */
-  background-image: url("D:/riwaayat/assets/img/bg.png");
+  background-image: url("../img/bg2.png");
   /* height: 620px; */
   position: relative;
   background-position: center;
