@@ -65,8 +65,15 @@ section {
 }
 
 .section-bg {
-  background-color: #F7E6C4;
+  /* background-color: #F7E6C4; */
   /* background-color: #FFD6A0; */
+  /* background-color: #F5FF6D; */
+  background-image: url("D:/riwaayat/assets/img/bg.png");
+  /* height: 620px; */
+  position: relative;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .section-header {
@@ -246,7 +253,7 @@ section {
 # Header
 --------------------------------------------------------------*/
 .header {
-  background: #fff;
+  background: #FFC06D;
   transition: all 0.5s;
   z-index: 997;
   height: 90px;
@@ -1664,7 +1671,14 @@ section {
 
 
 .random-class {
-	background-color: #F7E6C4;
+	/* background-color: #F7E6C4; */
+  /* background-color: #FFD6A0; */
+  background-image: url("D:/riwaayat/assets/img/bg.png");
+  /* height: 620px; */
+  position: relative;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .menu-img {
