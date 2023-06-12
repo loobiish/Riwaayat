@@ -903,6 +903,7 @@ section {
 .menu .tab-content .menu-item {
   -moz-text-align-last: center;
   text-align-last: center;
+  border-radius: 10px !important;
 }
 
 .menu .tab-content .menu-item .menu-img {
@@ -910,6 +911,7 @@ section {
   margin-bottom: 15px;
   width: 550px;
   height: 570px;
+  border-radius: 10px !important;
 }
 
 .menu .tab-content .menu-item h4 {
@@ -919,18 +921,21 @@ section {
   font-family: var(--font-secondary);
   font-weight: 30px;
   margin-bottom: 5px;
+  border-radius: 10px !important;
 }
 
 .menu .tab-content .menu-item .ingredients {
   font-family: var(--font-secondary);
   color: #8d8d9b;
   margin-bottom: 5px;
+  border-radius: 10px !important;
 }
 
 .menu .tab-content .menu-item .price {
   font-size: 24px;
   font-weight: 700;
   color: var(--color-primary);
+  border-radius: 10px !important;
 }
 
 
@@ -956,6 +961,7 @@ section {
   .menu .tab-content .menu-item {
     /* Adjust styles for mobile screens */
     text-align-last: left;
+    border-radius: 10px;
   }
 
   .menu .tab-content .menu-item .menu-img {
@@ -964,6 +970,7 @@ section {
     margin-bottom: 10px;
     width: 150px;
     height: 200px;
+    border-radius: 10px;
   }
 
 
@@ -971,17 +978,20 @@ section {
     /* Adjust styles for mobile screens */
     font-size: 18px;
     margin-bottom: 3px;
+    border-radius: 10px;
   }
 
   .menu .tab-content .menu-item .ingredients {
     /* Adjust styles for mobile screens */
     font-size: 14px;
     margin-bottom: 3px;
+    border-radius: 10px;
   }
 
   .menu .tab-content .menu-item .price {
     /* Adjust styles for mobile screens */
     font-size: 20px;
+    border-radius: 10px;
   }
 }
 
